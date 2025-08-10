@@ -1,0 +1,11 @@
+.work-info a {
+    color: #c86b47;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.work-info a:hover {
+    color: #d9825b;
+    text-decoration: none;
+}
