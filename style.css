@@ -95,6 +95,27 @@ hr {
     box-shadow: 0 5px 12px rgba(0,0,0,0.18);
 }
 
+.contact-block {
+  text-align: center; /* Центрируем по горизонтали */
+  margin-top: 20px;   /* Отступ сверху */
+}
+.tg-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: #0088cc;
+}
+.tg-link:hover {
+  color: #007ab8;
+}
+.tg-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
 /* --- Адаптивность --- */
 @media (max-width: 600px) {
     body {
