@@ -29,7 +29,7 @@
         font-size: 1.05rem;
         color: rgba(58,47,40,0.85);
         margin-bottom: 40px;
-        max-width: 1200px;
+        max-width: 1500px;
         line-height: 1.5;
     }
     .work-info {
@@ -39,7 +39,7 @@
     }
     .work-info a {
         color: #c86b47;
-        font-weight: 1000;
+        font-weight: 1500;
         text-decoration: none;
         transition: color 0.3s ease;
     }
