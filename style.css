@@ -37,6 +37,19 @@ h1 {
 
 .dates {
     opacity: 0.75;
+    display: block;
+    margin-bottom: 6px;
+}
+
+/* Ссылки внутри опыта */
+.experience a {
+    color: #b3543e !important;
+    text-decoration: none !important;
+    font-weight: 600;
+}
+
+.experience a:hover {
+    text-decoration: underline !important;
 }
 
 hr {
@@ -45,6 +58,7 @@ hr {
     background: rgba(179, 84, 62, 0.3);
     margin: 25px auto;
     width: 50%;
+    border-radius: 2px;
 }
 
 .buttons {
@@ -97,17 +111,6 @@ hr {
         margin-bottom: 25px;
     }
 
-    .experience a {
-    color: #b3543e !important;
-    text-decoration: none !important;
-    font-weight: 600;
-}
-
-.experience a:hover {
-    text-decoration: underline !important;
-}
-
-
     .buttons a {
         width: 100%;
         max-width: 260px;
@@ -115,3 +118,4 @@ hr {
         padding: 10px 18px;
     }
 }
+
