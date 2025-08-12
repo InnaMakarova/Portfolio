@@ -91,6 +91,9 @@ hr {
 a {
   text-decoration: none;
 }
+a:hover {
+  text-decoration: none;
+}
 
 /* --- Адаптивность --- */
 @media (max-width: 600px) {
