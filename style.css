@@ -52,6 +52,13 @@ h1 {
     text-decoration: none !important;
 }
 
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
 hr {
     border: none;
     height: 1px;
