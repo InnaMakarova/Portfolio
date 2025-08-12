@@ -98,14 +98,15 @@ hr {
     }
 
     .experience a {
-    color: #b3543e;
-    text-decoration: none;
+    color: #b3543e !important;
+    text-decoration: none !important;
     font-weight: 600;
 }
 
 .experience a:hover {
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
+
 
     .buttons a {
         width: 100%;
