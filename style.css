@@ -5,6 +5,7 @@ body {
     color: #3c2f2f;
     text-align: center;
     padding: 40px 20px;
+    padding-bottom: 60px;
 }
 
 .photo {
@@ -95,8 +96,8 @@ hr {
     }
 
     .photo {
-        width: 140px;
-        height: 140px;
+        width: 120px;
+        height: 120px;
         margin-bottom: 25px;
     }
 
