@@ -97,6 +97,16 @@ hr {
         margin-bottom: 25px;
     }
 
+    .experience a {
+    color: #b3543e;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.experience a:hover {
+    text-decoration: underline;
+}
+
     .buttons a {
         width: 100%;
         max-width: 260px;
