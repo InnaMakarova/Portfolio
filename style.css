@@ -61,7 +61,7 @@
         color: #fff;
         font-weight: 500;
         text-decoration: none;
-        border-radius: 16px;
+        border-radius: 60px;
         transition: all 0.3s ease;
         box-shadow: 0 4px 10px rgba(0,0,0,0.15);
     }
@@ -84,10 +84,10 @@
 
 .divider {
   width: 100%;
-  max-width: 320px; /* под ширину блока ссылок */
-  height: 3px;
+  max-width: 300px; /* под ширину блока ссылок */
+  height: 2px;
   background: #c86b47; /* тот же цвет, что и ссылки */
   border-radius: 2px;
-  margin: 16px auto; /* отступы сверху/снизу */
+  margin: 12px auto; /* отступы сверху/снизу */
   box-shadow: 0 2px 6px rgba(200,107,71,0.12); /* лёгкая тень — опционально */
 }
