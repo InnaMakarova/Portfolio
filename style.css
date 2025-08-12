@@ -28,7 +28,7 @@
         font-size: 1.05rem;
         color: rgba(58,47,40,0.85);
         margin-bottom: 40px;
-        max-width: 1000px;
+        max-width: 1200px;
         line-height: 1.5;
     }
     .work-info {
@@ -84,9 +84,9 @@
 .divider {
   width: 100%;
   max-width: 320px; /* под ширину блока ссылок */
-  height: 4px;
+  height: 3px;
   background: #c86b47; /* тот же цвет, что и ссылки */
   border-radius: 2px;
-  margin: 18px auto; /* отступы сверху/снизу */
+  margin: 16px auto; /* отступы сверху/снизу */
   box-shadow: 0 2px 6px rgba(200,107,71,0.12); /* лёгкая тень — опционально */
 }
