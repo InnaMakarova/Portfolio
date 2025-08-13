@@ -97,7 +97,7 @@ hr {
 
 .contact-block {
   text-align: center; /* Центрируем по горизонтали */
-  margin-top: 20px;   /* Отступ сверху */
+  margin-top: 25px;   /* Отступ сверху */
 }
 .tg-link {
   display: inline-flex;
@@ -105,10 +105,10 @@ hr {
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
-  color: #0088cc;
+  color: #fff;
 }
 .tg-link:hover {
-  color: #007ab8;
+  color: #b3543e;
 }
 .tg-icon {
   width: 24px;
