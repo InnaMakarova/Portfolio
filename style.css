@@ -107,7 +107,7 @@ hr {
   font-size: 14px;
   font-weight: bold;
   color: #b3543e;
-  transform: translateX(-8px); /* сдвиг всей строки чуть влево */
+  transform: translateX(-10px); /* сдвиг всей строки чуть влево */
 }
 
 .tg-link:hover {
@@ -161,6 +161,6 @@ hr {
       font-size: 18px;
       font-weight: bold;
       color: #b3543e;
-      transform: translateX(-8px); /* сдвиг всей строки чуть влево */
+      transform: translateX(-10px); /* сдвиг всей строки чуть влево */
    }
 }
