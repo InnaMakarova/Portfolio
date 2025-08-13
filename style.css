@@ -97,7 +97,7 @@ hr {
 
 .contact-block {
   text-align: center; /* Центрируем блок */
-  margin-top: 25px;
+  margin-top: 30px;
 }
 
 .tg-link {
@@ -107,7 +107,7 @@ hr {
   font-size: 14px;
   font-weight: bold;
   color: #b3543e;
-  transform: translateX(-4px); /* сдвиг всей строки чуть влево */
+  transform: translateX(-6px); /* сдвиг всей строки чуть влево */
 }
 
 .tg-link:hover {
@@ -161,6 +161,6 @@ hr {
       font-size: 18px;
       font-weight: bold;
       color: #b3543e;
-      transform: translateX(-4px); /* сдвиг всей строки чуть влево */
+      transform: translateX(-6px); /* сдвиг всей строки чуть влево */
    }
 }
