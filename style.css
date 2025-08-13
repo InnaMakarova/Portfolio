@@ -161,6 +161,6 @@ hr {
       font-size: 18px;
       font-weight: bold;
       color: #b3543e;
-      transform: translateX(-9px); /* сдвиг всей строки чуть влево */
+      transform: translateX(-8px); /* сдвиг всей строки чуть влево */
    }
 }
