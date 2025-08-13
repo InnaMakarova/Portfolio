@@ -152,4 +152,13 @@ hr {
         padding: 14px 24px;
         border-radius: 16px;
     }
+    
+    .tg-link {
+      display: inline-flex;
+      align-items: center;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      color: #b3543e;
+   }
 }
